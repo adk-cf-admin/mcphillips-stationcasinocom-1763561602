@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#585757",
+            "welcome-bonus-bg": "#ffffff",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#EFEFEF",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#7BC14C",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#7BC14C",
+            "yellow": "#fb333d",
+            "yellow-button": "#7BC14C",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#ffffff",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#585757",
+            "faq-label": "#ffffff",
+            "bg-footer": "#100f0f",
+            "copyright": "#e7e7d5",
+            "starColor": "#fb333d",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "McPhillips Station Casino",
+            "title": "McPhillips Station Casino | Slots, Table Games, Bonuses and Dining in Winnipeg",
+            "description": "Discover McPhillips Station Casino: slot machines, table games, bonuses, restaurants, bars, events and a complete entertainment experience in Winnipeg.",
+            "canonical": "mcphillips-stationcasino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/607",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "mcphillips-stationcasino.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/608",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/609"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/610",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "McPhillips Station Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "McPhillips Station Casino \u2014 Gaming, Dining and Entertainment in Winnipeg",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/611",
+            "imageSizeModifier": 5,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/612",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Over 1,200 modern slot machines.",
+                "Table games: roulette, blackjack, poker.",
+                "Progressive jackpots with big prizes.",
+                "Regular poker tournaments and promotions.",
+                "Unique railway station-themed design.",
+                "Restaurants and bars with diverse menus.",
+                "Spacious parking and convenient Winnipeg location."
+            ],
+            "advantagesAfterText": "McPhillips Station Casino combines a nostalgic railway station atmosphere with cutting-edge gaming technology. \n",
+            "knowMore": "Know more",
+            "appTitle": "McPhillips Station Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/617",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "McPhillips Station Casino App",
+            "mobileGooglePlayImageTitle": "McPhillips Station Casino App",
+            "mobileIosImageTitle": "McPhillips Station Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About McPhillips Station Casino",
+                "description1": "",
+                "items": [
+                    "Jackpots up to $1,000,000.",
+                    "New player bonuses up to $500.",
+                    "Daily draws with big prizes."
+                ],
+                "description2": "McPhillips Station Casino is a popular Winnipeg casino that blends the charm of a historic railway station with modern gaming technology. Guests can enjoy a wide variety of slot machines and table games. The casino features comfortable lounges and a stylish interior. Inside, there are restaurants and bars offering delicious cuisine. Visitors can experience live entertainment and special events. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/618",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Its convenient location makes it easily accessible for locals and tourists. The casino is known for excellent service and a safe gaming environment. Promotions and exclusive offers are held regularly. McPhillips Station Casino is a great place for gaming and relaxation. It stands as one of Manitoba\u2019s top entertainment destinations.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "McPhillips Station Casino \u2014 style, comfort and excitement in Winnipeg",
+                "description": "<p>\nMcPhillips Station Casino is a unique destination where historic charm meets modern entertainment. Its interior reflects the elegance of an old railway station, creating a nostalgic yet vibrant atmosphere. Spacious gaming halls, warm lighting, and themed d\u00e9cor ensure a comfortable and memorable experience.\n\n<\/p>\n<br>\n<p>\nThe casino operates daily, offering flexible hours for guests who want to enjoy gaming at their convenience. Inside, visitors will find stylish bars and restaurants serving North American cuisine and refreshing drinks. Loft 180 stands out as the main dining spot, known for its diverse menu and inviting ambiance.\n\n<\/p>\n<br>\n<p>\nFor those planning an extended stay, several comfortable hotels are located nearby, providing easy access and convenience. The casino also hosts entertainment events, including live shows and themed nights, adding excitement beyond gaming.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to bonus programs and loyalty rewards. Regular players benefit from exclusive offers, extra credits, and prize draws. McPhillips Station Casino is more than just a gaming venue\u2014it\u2019s a complete entertainment hub where every visit brings new experiences.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nServices and Convenience at McPhillips Station Casino\n<\/h3>\n\n<p>\nAt McPhillips Station Casino, staff primarily communicates in English, ensuring clear and professional service for all guests. Employees are attentive and ready to assist, making sure visitors feel comfortable and understand the gaming rules and available amenities.\n\n<\/p>\n<br>\n<p>\nPayment options at the casino are flexible, including cash, debit, and credit cards, which makes account funding simple and convenient. For those who prefer cash, ATMs are strategically placed throughout the venue, allowing quick and easy withdrawals.\n\n<\/p>\n<br>\n<p>\nSpecial consideration is given to international visitors. Currency exchange services are available on-site, enabling guests to convert funds effortlessly and enjoy their stay without financial concerns. These features are designed to provide a secure, comfortable, and hassle-free experience for every guest.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisiting Rules at McPhillips Station Casino\n<\/h3>\n\n<p>\nVisiting McPhillips Station Casino requires following certain guidelines to ensure a safe and enjoyable experience for all guests. The venue promotes a stylish atmosphere, so neat and presentable attire is recommended. While there is no strict dress code, sportswear, beach outfits, and overly revealing clothing are discouraged.\n\n<\/p>\n<br>\n<p>\nEntry is permitted only to adults, and a valid government-issued ID must be presented. The casino enforces responsible gaming policies, meaning guests who appear heavily intoxicated may be denied access. Bringing outside food, drinks, or prohibited items is strictly forbidden.\n\n<\/p>\n<br>\n<p>\nFor convenience, the casino offers spacious parking facilities, and it is easily accessible by car or public transportation. Its central Winnipeg location makes it a popular destination for both locals and tourists.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Key rules<\/h4>\n\n <ul>\n            <li>\u2022 \nDress code: neat attire, avoid sports or beachwear.\n\n<\/li>\n            <li>\u2022 \nEntry conditions: adults only, ID required.\n\n<\/li>\n            <li>\u2022 \nRestrictions: no outside food, drinks, or banned items.\n\n<\/li>\n            <li>\u2022 \nParking: free and convenient near the venue.\n\n<\/li>\n\t    <li>\u2022 \nTransportation: easy access by car or bus.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMcPhillips Station Casino Loyalty Program \u2014 Rewards and Benefits\n<\/h3>\n\n<p>\nThe McPhillips Station Casino loyalty program, known as Club Card Casinos of Winnipeg, is designed to reward regular guests with exclusive perks. Members earn points by playing slots, table games, and poker, which can be redeemed for bonuses and special offers. The program includes free play credits, dining discounts, and invitations to special events.\n\n<\/p>\n<br>\n<p>\nRegistration is quick and free: simply visit the service desk and present a valid ID. Once activated, your card starts accumulating points with every wager. The more you play, the higher your tier and the greater your benefits. Bonuses include free spins on popular slots, food and beverage discounts, and entry into monthly prize draws.\n\n<\/p>\n<br>\n<p>\nThe program features multiple tiers, offering enhanced rewards at higher levels. VIP members enjoy personalized offers, priority service, and exclusive event invitations. Regular promotions include triple points days and Free Play bonuses of up to $500.\n\n<\/p>\n<br>\n\n\n\n <ul>\n            <li>\u2022 \nRegistration: Free at the service desk, ID required.\n<\/li>\n            <li>\u2022 \nConditions:\n\nPoints earned on slots, table games, and poker.\n<\/li>\n            <li>\u2022 \nTiers:\n\nBasic level for new players, VIP tiers for frequent guests.\n<\/li>\n            <li>\u2022 \nBonuses:\n\nFree spins, dining discounts, prize draws, up to $500 Free Play.\n<\/li>\n\t \n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": " Entertainment and Gaming at McPhillips Station Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at McPhillips Station Casino\n<\/h3>\n\n<p>\nMcPhillips Station Casino offers a wide range of bonuses and special promotions that make gaming even more exciting. Guests can enjoy offers tied to slot machines, table games, and entertainment events. Seasonal celebrations include holiday draws and themed nights, giving players extra chances to win.\n\n<\/p>\n<br>\n<p>\nProgressive jackpots and high-paying slots are a major highlight, offering opportunities for substantial payouts. New player bonuses and exclusive deals for regular visitors add extra value to every visit. Entertainment programs feature contests and prize giveaways during special events, creating a festive atmosphere.\n\n<\/p>\n<br>\n<p>\nThese promotions make McPhillips Station Casino more than just a gaming venue\u2014it\u2019s a complete entertainment hub where every visit can be rewarding.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Bonuses and offers<\/h4>\n\n <ul>\n            <li>\u2022 \nProgressive jackpots \u2014 payouts can reach $1,000,000 on Powerbucks slots.\n\n<\/li>\n            <li>\u2022 \nNew player bonuses \u2014 up to $500 for registration and first deposits.\n\n<\/li>\n            <li>\u2022 \nDaily prize draws \u2014 chances to win $100 to $5,000.\n\n<\/li>\n            <li>\u2022 \nSeasonal promotions \u2014 holiday tournaments with prizes up to $10,000.\n\n<\/li>\n\t    <li>\u2022 \nSpecial gaming nights \u2014 extra credits and free spins on popular slots.\n\n<\/li>\n\t    <li>\u2022 \nThemed events \u2014 contests with gift cards and exclusive merchandise.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at McPhillips Station Casino\nIn English\n<\/h3>\n\n<p>\nMcPhillips Station Casino offers a wide selection of games that appeal to both beginners and seasoned players. The gaming floor features modern slot machines with vibrant graphics and progressive jackpots. Classic table games such as roulette, blackjack, and baccarat provide an authentic casino experience. Poker is a major highlight, with regular tournaments and multiple formats available.\n\n<\/p>\n<br>\n<p>\nSlot machines include globally recognized titles known for their dynamic gameplay and big win potential. Table games bring strategy and excitement, while bingo sessions offer a more relaxed form of entertainment. Special gaming nights add extra fun and rewards for participants.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular games<\/h4>\n\n <ul>\n            <li>\u2022 \nBuffalo\u2122 \u2014 iconic slot with bonus features and big win potential.\n\n<\/li>\n            <li>\u2022 \nWheel of Fortune\u2122 \u2014 classic slot with progressive jackpots and colorful design.\n\n<\/li>\n            <li>\u2022 \nLightning Link\u2122 \u2014 slot series featuring hold-and-spin mechanics and jackpot chances.\n\n<\/li>\n            <li>\u2022 \nRoulette \u2014 traditional game with bets on numbers and colors.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack \u2014 card game where strategy beats the dealer.\n\n<\/li>\n\t    <li>\u2022 \nUltimate Texas Hold\u2019em \u2014 popular poker variant with high stakes.\n\n<\/li>\n\t    <li>\u2022 \nBingo \u2014 relaxed game for social players and classic fans.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at McPhillips Station Casino\n<\/h3>\n\n<p> \nMcPhillips Station Casino offers flexible betting options to suit every player\u2019s budget. From low-stakes slots for casual gamers to high-limit tables for those seeking big wins, the casino ensures an inclusive gaming experience. Slot machines start with minimal bets, while table games provide opportunities for larger wagers and higher payouts.\n\n<\/p><br>\n<p> \nThe wide range of limits across popular games like slots, roulette, blackjack, and poker makes McPhillips Station Casino a top choice for both beginners and seasoned players.\n\n<\/p><br>\n\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#7BC14C; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold\u2019em<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $1,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Bingo<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$50<\/td>\n                <\/tr>\n          <tr>\n             \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at McPhillips Station Casino\n<\/h3>\n\n<p> \nMcPhillips Station Casino is more than just a gaming venue\u2014it\u2019s a vibrant entertainment hub. The casino hosts regular events that create a festive atmosphere and make every visit memorable. Guests can enjoy live shows, concerts, and themed nights featuring music, dance, and exciting performances.\n\n<\/p>\n<br>\n<p> \nRegular entertainment programs include lounge areas, bars with live music, and special evening events. Visitors can experience the vibe of a nightclub with popular hits, dance parties, and artist performances. These events often feature contests and prize giveaways, adding extra excitement to the night.\n\n<\/p>\n<br>\n<p> \nSeasonal events are a highlight of the casino\u2019s calendar. Holiday celebrations include themed shows, New Year\u2019s parties, concerts, and special gaming promotions. These occasions combine cultural entertainment with the thrill of gaming.\n\n<\/p>\n<br>\n<p> \nMcPhillips Station Casino also organizes special gaming nights where participants receive extra bonuses and free spins on slots. This is a perfect way to mix fun with winning opportunities. Every event is designed to make your visit unforgettable.\n\n<\/p>\n<br>\n\n <ul>\n            <li>\u2022 \nLive shows and concerts \u2014 performances by local and guest artists.\n\n<\/li>\n            <li>\u2022 \nThemed parties \u2014 festive events with contests and prizes.\n\n<\/li>\n            <li>\u2022 \nNightclub and dance parties \u2014 music, dancing, and vibrant atmosphere.\n\n<\/li>\n            <li>\u2022 \nSeasonal celebrations \u2014 holiday shows, special promotions, and prize draws.\n\n<\/li>\n\t    <li>\u2022 \nGaming nights with bonuses \u2014 extra credits and free spins.\n\n<\/li>\n\t    <li>\u2022 \nKaraoke and music programs \u2014 for those who love to sing and have fun.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRestaurants, Bars and Relaxation at McPhillips Station Casino\n<\/h3>\n\n<p>\nMcPhillips Station Casino offers guests more than just gaming\u2014it provides a complete leisure experience with dining and entertainment options. Inside the venue, Loft 180 stands out as a stylish restaurant featuring North American cuisine, from appetizers to main courses and desserts, all served in a cozy setting.\n\n<\/p>\n<br>\n<p>\nBars located on the gaming floor offer cocktails, beer, and non-alcoholic drinks, allowing players to take a break without leaving the action. The casino also hosts themed nights and live shows, creating a festive and engaging atmosphere.\n\n<\/p>\n<br>\n<p>\nSeveral comfortable hotels are situated nearby, making it easy for visitors to enjoy extended stays. McPhillips Station Casino is the perfect destination for those seeking both gaming excitement and relaxation.\n\n<\/p>\n<br>\n\n\n        <ul>\n            <li>\u2022 \nLoft 180 \u2014 a modern restaurant with a diverse menu.\n\n<\/li>\n            <li>\u2022 \nGaming bar \u2014 drinks and snacks on the gaming floor.\n\n<\/li>\n            <li>\u2022 \nNearby hotels \u2014 convenient accommodations within walking distance.\n\n<\/li>\n            <li>\u2022 \nLounge areas \u2014 cozy spaces for breaks between games.\n\n<\/li>\n\n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need to book tables in advance?",
+                    "answer": "No, reservations are not required, but poker tournaments may need registration.\n\n\n"
+                },
+                {
+                    "title": "What ID is required for entry?",
+                    "answer": "A valid government-issued photo ID is needed.\n\n\n"
+                },
+                {
+                    "title": "Is the casino open 24\/7?",
+                    "answer": "No, but operating hours are flexible and convenient.\n\n\n"
+                },
+                {
+                    "title": "Can I exchange currency?",
+                    "answer": "Yes, currency exchange services are available for international guests.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/616",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "McPhillips Station Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

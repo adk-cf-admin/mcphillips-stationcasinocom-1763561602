@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://mcphillips-stationcasino.com/
+Sitemap: https://mcphillips-stationcasino.com/sitemap.xml
